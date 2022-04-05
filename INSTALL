@@ -1,0 +1,8 @@
+Installation
+=============
+
+```
+make
+make install     # this command may require root access
+```
+
